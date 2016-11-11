@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+*.log
+
+# Other
+.DS_Store
+
+# AWS Credentials
